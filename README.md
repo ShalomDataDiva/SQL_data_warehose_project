@@ -1,0 +1,2 @@
+# SQL_data_warehose_project
+bulding a simple mordern data warehouse with SQL server, includind. data modelling and analytics
